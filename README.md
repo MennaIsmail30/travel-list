@@ -18,3 +18,5 @@ What are the functionalities?
 -   Toggel items
 -   Sort items By(inputs|description| stats)
 -   Clear list from all items
+
+  Website link: travel-list-33.netlify.app
